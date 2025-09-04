@@ -1,7 +1,7 @@
 import express from "express";
 
 //routes
-import OrderRoute from "../orders/order.route";
+import OrderRoute from "../orders/application/order-routes";
 
 const router = express.Router();
 
